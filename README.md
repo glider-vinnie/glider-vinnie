@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Nandurkar</h1>
-[![Holopin board](https://holopin.io/api/user/board?user=glidervinnie)](https://holopin.io/@glidervinnie)
-
 <h3 align="center">A learner from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vaishnavin35501" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavin35501?logo=twitter&style=for-the-badge" alt="vaishnavin35501" /></a> </p>
@@ -23,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glider-vinnie&show_icons=true&locale=en" alt="glider-vinnie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glider-vinnie&" alt="glider-vinnie" /></p>
+[![Holopin board](https://holopin.io/api/user/board?user=glidervinnie)](https://holopin.io/@glidervinnie)
+
