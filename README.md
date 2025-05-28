@@ -21,5 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glider-vinnie&show_icons=true&locale=en" alt="glider-vinnie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glider-vinnie&" alt="glider-vinnie" /></p>
-[![Holopin board](https://holopin.io/api/user/board?user=glidervinnie)](https://holopin.io/@glidervinnie)
+<a href="https://holopin.io/@glidervinnie" target="_blank">
+  <img src="https://holopin.io/api/user/board?user=glidervinnie" alt="Holopin badge board of @glidervinnie" />
+</a>
 
