@@ -4,7 +4,7 @@
   <img src="https://holopin.io/api/user/board?user=glidervinnie" alt="Holopin badge board of @glidervinnie" />
 </a>
 
-
+[![An image of @glidervinnie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glidervinnie)](https://holopin.io/@glidervinnie)
 <h3 align="center">A learner from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vaishnavin35501" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnavin35501?logo=twitter&style=for-the-badge" alt="vaishnavin35501" /></a> </p>
