@@ -1,14 +1,10 @@
----
-
 ## 🏅 Holopin Badges
 
 <p align="center">
   <a href="https://holopin.io/@glidervinnie">
-    <img src="https://holopin.me/glidervinnie" alt="Holopin Badges" />
+    <img src="https://holopin.me/glidervinnie" alt="@glidervinnie Holopin Board" />
   </a>
 </p>
-
----
 
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">🚀 CSE (AI & DS) Student | Backend + Data Enthusiast</h3>
