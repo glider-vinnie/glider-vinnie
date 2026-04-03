@@ -9,10 +9,7 @@ Building impactful tech • Learning relentlessly • Turning ideas into executi
 
 ## 🌱 About Me
 - 🎓 Second-year BTech student (AI & Data Science)
-- 💡 Interested in **Backend Development + Data Science**
-- ⚡ Currently building **AI-driven systems & dashboards**
-- 🧠 Love solving problems with **DSA + logic**
-- 🎯 Goal: Become a **Data Scientist → Data Engineer**
+- 💡 Interested in **Fullstack Development + Data Science + Machine Learning**
 
 ---
 
@@ -47,8 +44,6 @@ Building impactful tech • Learning relentlessly • Turning ideas into executi
 <p align="left">
 <a href="https://twitter.com/vaishnavin35501" target="blank">Twitter</a> •
 <a href="https://www.linkedin.com/in/vaishnavinandurkar" target="blank">LinkedIn</a> •
-<a href="https://codeforces.com/profile/glider_vinnie" target="blank">Codeforces</a> •
-<a href="https://www.codechef.com/users/vinnie_14" target="blank">CodeChef</a>
 </p>
 
 ---
