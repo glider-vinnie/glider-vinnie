@@ -43,7 +43,7 @@ Building impactful tech • Learning relentlessly • Turning ideas into executi
 ## 🔗 Connect With Me
 <p align="left">
 <a href="https://twitter.com/vaishnavin35501" target="blank">Twitter</a> •
-<a href="https://www.linkedin.com/in/vaishnavinandurkar" target="blank">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/vaishnavinandurkar" target="blank">LinkedIn</a> 
 </p>
 
 ---
@@ -59,6 +59,3 @@ Building impactful tech • Learning relentlessly • Turning ideas into executi
 </p>
 
 ---
-
-## ✨ Quote I Believe In
-> "Execution beats perfection."
