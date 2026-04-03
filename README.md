@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center">🚀 CSE (AI & DS) Student | Backend + Data Enthusiast</h3>
+<h3 align="center">🚀 Part-time Student | Part-time designer</h3>
 
 <p align="center">
 Building impactful tech • Learning relentlessly • Turning ideas into execution
@@ -18,6 +18,7 @@ Building impactful tech • Learning relentlessly • Turning ideas into executi
 ## 🌱 About Me
 - 🎓 Second-year BTech student (AI & Data Science)
 - 💡 Interested in **Fullstack Development + Data Science + Machine Learning**
+- 🖼️ Does **Graphic Designing** and **Illustrations** for fun
 
 ---
 
@@ -36,7 +37,7 @@ Building impactful tech • Learning relentlessly • Turning ideas into executi
 `Pandas` `Scikit-learn` `TensorFlow`
 
 ### 🎨 Other Tools
-`Figma` `Git` `Linux`
+`Figma` `Illustrator` `Canva` `Git` `Prisma`
 
 ---
 
