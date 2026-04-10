@@ -1,5 +1,3 @@
-## 🏅 Holopin Badges
-
 <p align="center">
   <a href="https://holopin.io/@glidervinnie">
     <img src="https://holopin.me/glidervinnie" alt="@glidervinnie Holopin Board" />
