@@ -8,15 +8,10 @@
 <h3 align="center">🚀 Part-time Student | Part-time designer</h3>
 ---
 
-## 🌱 About Me
-- 🎓 Second-year BTech student (AI & Data Science)
-- 💡 Interested in **Fullstack Development + Data Science + Machine Learning**
-- 🖼️ Does **Graphic Designing** and **Illustrations** for fun
-
+📫 Contact me at vaishnavinandurkar97@gmail.com
+📄 Know about my experiences: https://drive.google.com/file/d/1YywtQMXOV_JREhE-46fgVbHaJJSo2NuZ/view?usp=sharing
 ---
-
-## 🔗 MY CV
-https://drive.google.com/file/d/1YywtQMXOV_JREhE-46fgVbHaJJSo2NuZ/view?usp=sharing
+---
 <p align="left">
 <a href="https://twitter.com/vaishnavin35501" target="blank">Twitter</a> •
 <a href="https://www.linkedin.com/in/vaishnavinandurkar" target="blank">LinkedIn</a> 
