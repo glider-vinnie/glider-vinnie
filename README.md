@@ -16,6 +16,7 @@
 ---
 
 ## 🔗 MY CV
+https://drive.google.com/file/d/1YywtQMXOV_JREhE-46fgVbHaJJSo2NuZ/view?usp=sharing
 <p align="left">
 <a href="https://twitter.com/vaishnavin35501" target="blank">Twitter</a> •
 <a href="https://www.linkedin.com/in/vaishnavinandurkar" target="blank">LinkedIn</a> 
